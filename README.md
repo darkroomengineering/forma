@@ -2,6 +2,13 @@
 
 This script allows you to generate static font instances from a variable font using the FontTools library. This can be useful for creating multiple static versions of a font with different properties (e.g., weight, slant, optical size).
 
+## Features
+
+- Generate static font instances from any variable font, via FontTools
+- Pin any variation axis: weight, slant, optical size, and more
+- Batch-export multiple weights and styles in a single run
+- Outputs ready-to-use static font files
+
 ## Requirements
 
 - Python 3.x
