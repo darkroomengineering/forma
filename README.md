@@ -4,10 +4,10 @@ This script allows you to generate static font instances from a variable font us
 
 ## Features
 
-- Generate static font instances from any variable font, via FontTools
-- Pin any variation axis: weight, slant, optical size, and more
-- Batch-export multiple weights and styles in a single run
-- Outputs ready-to-use static font files
+- **Variable to static** — instance static fonts from any variable font with FontTools
+- **Any axis** — pin weight, slant, optical size, or any custom axis per instance
+- **Batch export** — generate many weights and styles in a single run
+- **Ready to ship** — outputs standard static font files
 
 ## Requirements
 
